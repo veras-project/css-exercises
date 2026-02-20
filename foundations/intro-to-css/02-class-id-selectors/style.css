@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.odd_num{
+    background-color: lab(48.14% 73.87 -7.93);
+    font-family: Verdana, 'DejaVu sans' , sans-serif;
+}
+#numdois{
+    color: #0000ff;
+    font-size: 36px;
+}
+.numtres{
+    font-size: 24px;
+}
+#numquatro{
+/*     a light green background, a font size of 24px, and bold*/
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
